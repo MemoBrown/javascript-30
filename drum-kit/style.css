@@ -11,10 +11,18 @@ body,html {
 }
 h1{
   color: #fff;
-    text-align: center;
-    font-size: 5em;
-    position: relative;
-    top: 4em;
+  text-align: center;
+  font-size: 5em;
+  position: relative;
+  top: 4em;
+}
+h2{
+  color: #fff;
+  text-align: center;
+  font-size: 4em;
+  position: relative;
+  top: 5em;
+
 }
 
 .keys {
