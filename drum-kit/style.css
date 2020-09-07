@@ -22,7 +22,7 @@ h2{
   font-size: 4em;
   position: relative;
   top: 5em;
-
+  display: none;
 }
 
 .keys {
@@ -63,4 +63,9 @@ kbd {
   text-transform: uppercase;
   letter-spacing: .1rem;
   color: #234AFC;
+}
+@media screen and (max-width: 768px){
+  h2{
+    display: block;
+  }
 }
